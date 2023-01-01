@@ -82,7 +82,7 @@ ul {
 
   .row .showsNear{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
   }
 
   .card {
@@ -102,14 +102,13 @@ ul {
     padding: 0px 30px 30px 30px;
   }
   
-
+.contact-us h2 {
+  display: block;
+}
 
   .page-section {
     background-color: var(--bg-color);
     padding: 1rem 6rem;
-    display: grid;
-    grid-template-columns: 30% 70%;
-    grid-template-areas: "left right";
     column-rule-color: var(--secondary-color);
     column-rule-style: ridge\;
   }
@@ -197,7 +196,7 @@ ul {
   }
   
   form {
-    width: 1000px;
+    width: 750px;
     margin: auto;
     padding: 45px;
     -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba (0,0,0,0.1) inset;
@@ -244,4 +243,13 @@ ul {
     height: 10px;
     transition: 0.9s;
     background-color: #dd5a92;
+  }
+
+  button {
+  position: relative;
+
+  }
+
+  .form-group {
+    position: relative;
   }
