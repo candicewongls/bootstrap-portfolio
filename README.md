@@ -20,8 +20,7 @@
 3. Install as you would normally install a html file.
 
 ## Usage
-![alt text](bootstrap-portfolio/images/Screenshot 2023-01-01 at 23.17.30.png
-bootstrap-portfolio/README.md)
+![alt text](images/Screenshot%202023-01-01%20at%2023.17.30.png)
 
 - Using semnatic html element can improve accessibility of the source code. 
 - buildiing  portfolio for coding
