@@ -29,10 +29,10 @@ bootstrap-portfolio/README.md)
 
 
 ## Github Repo
-https://github.com/candicewongls/challenge-week2.git
+https://github.com/candicewongls/bootstrap-portfolio
 
 ## Live URL
- https://candicewongls.github.io/challenge-week2/
+https://candicewongls.github.io/bootstrap-portfolio/
 
 ## Credit
 - [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
